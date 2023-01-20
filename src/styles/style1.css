@@ -1,0 +1,40 @@
+.logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    }
+    .mystyle{
+      height: 0.5vh;
+      width: 0.4vh;
+    }
+    .btn{
+      
+    box-sizing: border-box;
+    
+    /* position: absolute; */
+    width: 315px;
+    height: 52px;
+    /* left: 22px;
+    top: 644px; */
+    margin-top: 26px;
+    background: #FEA82F;
+    border: 1.5px solid #000000;
+    }
+    .link{
+      /* position: absolute; */
+    width: 280px;
+    height: 15px;
+    /* left: 34px;
+    top: 14px; */
+    
+    font-family: 'Aileron';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 10px;
+    
+    /* identical to box height */
+    text-align: center;
+    text-decoration: none;
+    color: #000000;
+    }
